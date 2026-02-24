@@ -1,0 +1,27 @@
+{
+  "KPP": [
+    {
+      "nr": "FV/001/2026",
+      "data_wystawienia": "2026-02-24",
+      "data_sprzedazy": "2026-02-24",
+      "sprzedawca": {
+        "nazwa": "KPP Łańcut",
+        "adres": "ul. Przykładowa 1, 37-100 Łańcut",
+        "nip": "123-456-78-90"
+      },
+      "nabywca": {
+        "nazwa": "Jan Kowalski",
+        "adres": "ul. Fikcyjna 2, 37-200 Rzeszów",
+        "nip": "987-654-32-10"
+      },
+      "pozycje": [
+        { "nazwa": "Usługa patrolowa", "ilosc": 2, "jednostka": "godz", "cena_jedn": 600, "wartosc": 1200 }
+      ],
+      "suma_netto": 1200,
+      "vat": 0,
+      "suma_brutto": 1200,
+      "uwagi": "Brak",
+      "forma_platnosci": "Przelew"
+    }
+  ]
+}
